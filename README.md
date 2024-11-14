@@ -10,6 +10,8 @@ Status:Work✅
 
 * Turn off Microsoft defender(it can delete files) 🟢
 
+* Launch Solara.exe 🟢
+ 
 * Run Roblox 🟢
 
 * Enjoy! 🟢
